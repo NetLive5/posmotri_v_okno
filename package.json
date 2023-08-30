@@ -1,0 +1,11 @@
+{
+	"main": "index.html",
+	"scripts": {
+		"check": "prettier --check './**/*.{html,css,js}'",
+		"format": "prettier --write './**/*.{html,css,js}'"
+	},
+	"dependencies": {
+		"prettier": "^3.0.2",
+		"stylelint": "^15.10.3"
+	}
+}
