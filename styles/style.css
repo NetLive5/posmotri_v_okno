@@ -16,7 +16,10 @@ html {
 	font-family: 'Fira Sans Condensed', sans-serif;
 	font-size: 18px;
 	background-color: #1b1919;
-	padding-top: 132px;
+	padding-top: 45px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 h1,
@@ -57,9 +60,8 @@ ol {
 .content {
 	display: flex;
 	gap: 30px;
-	justify-content: center;
 	align-items: center;
-	margin: 0px 0px 0px 30px;
+	margin: 0px 0px 6px 22px;
 }
 
 .search-form {
