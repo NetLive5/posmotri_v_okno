@@ -61,6 +61,7 @@ ol {
 	gap: 30px;
 	align-items: flex-end;
 	max-width: 1140px;
+	/*Решил использовать 1140px вместо 1100px тк верста не поподает под пример. Ссылка на скриншот https://ru.paste.pics/P8C3L*/
 }
 
 .search-form {
